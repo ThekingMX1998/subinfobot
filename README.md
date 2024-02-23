@@ -1,17 +1,17 @@
 # Subinfo Bot
 
-[![Action-Release](https://github.com/wu-mx/subinfobot/actions/workflows/Build.yml/badge.svg)](https://github.com/wu-mx/subinfobot/actions/workflows/Build.yml/)
-[![Download](https://img.shields.io/github/downloads/wu-mx/subinfobot/total.svg)](https://github.com/wu-mx/subinfobot/releases)
+[![Action-Release](https://github.com/wu-mx/subinfobot/actions/workflows/Build.yml/badge.svg)](https://github.com/ThekingMX1998/subinfobot/actions/workflows/Build.yml/)
+[![Download](https://img.shields.io/github/downloads/wu-mx/subinfobot/total.svg)](https://github.com/ThekingMX1998/subinfobot/subinfobot/releases)
 #### 一个由Go编写的开源轻量订阅查询Telegram Bot。
 
 ### 快速开始
 您可以通过直接下载编译好的二进制文件或自行编译来使用Subinfo Bot。
-<br>[Release下载](https://github.com/wu-mx/subinfobot/releases/tag/v0.0.1)
+<br>[Release下载](https://github.com/ThekingMX1998/subinfobot/releases/tag/v0.0.3)
 
 #### 自行编译
 ```shell
-git clone https://github.com/wu-mx/subinfobot/
-cd ./subinfobot
+git clone https://github.com/ThekingMX1998/subinfobot.git
+cd subinfobot
 go get 
 go build
 ```
